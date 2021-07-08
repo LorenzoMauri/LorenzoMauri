@@ -1,7 +1,7 @@
-Hi, I'm @LorenzoMauri. Welcome to my github profile 😃
+# About me 
+Hey there, I'm Lorenzo. Welcome to my github profile 😃
 
-- I'm a Data Science student at University of Milan-Bicocca with a strong statistical background 
+It's a pleasure introducing myself. I am a passionate student and worker focused on AI algorithms. Currently I'm attending the Data Science Master Degree at University of Milan-Bicocca and working as a Data Analyst at a company based in Lecco.
 
-- I'm a Data Scientist focused on ML and deep learning algorithms 
-
-- Here is my contanct lorenzo.mauri858@gmail.com
+# Contact me 
+If you wish, here is my contanct lorenzo.mauri858@gmail.com
