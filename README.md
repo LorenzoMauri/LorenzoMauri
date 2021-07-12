@@ -10,7 +10,7 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 :books: *Data Science MSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it:
 
-:computer: *Working at a company based in [Lecco](https://it.wikipedia.org/wiki/Lecco),  Italy* :it:
+:computer: *Working at a company based in [Lecco](https://en.wikipedia.org/wiki/Lecco),  Italy* :it:
 
 
 
