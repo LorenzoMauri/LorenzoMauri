@@ -1,12 +1,48 @@
 ## Hello, I'm Lorenzo :wave:
 
 
-Hi, I'm Lorenzo - a Data Analyst and a passionate Data Science student focused on ML and Deep Learnig algorithms and techniques.
+Hi, nice to meet you - I'm a Data Analyst and a passionate Data Science student with a strong statistical background. 
 
-:books: *Data Science MSc, Università degli studi di Milano-Bicocca, Italy*
+What do I like most ?  Really excited by challenges and new things to learn, doing sports both swimming and playing basketball :basketball:
 
-:round_pushpin: *Milan, Italy*
 
-### Get in touch
+### What I am working on 
+
+:books: *Data Science MSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it:
+
+:computer: *Working at a company based in [Lecco](https://it.wikipedia.org/wiki/Lecco),  Italy* :it:
+
+
+
+### Contents 
+
+In my repositories you can find Data Science-related projects, more specifically covering the following topics and areas:
+
+    Computer Vision tasks such as object and image recognition
+
+    Natural Language Processing (NLP) i.e text classification
+
+    Other statistical analysis related to ML 
+    
+    Gathering Data : web scraping
+
+    Data Visualizations with Tableau Desktop/Public 
+  
+  
+### Tools 
+
+- Programming Languages
+
+      1. Python (both scripts and Colab notebooks)
+      2. R
+   
+
+
+
+
+
+
+
+### :speech_balloon:  Get in touch
 ---------------------
 :inbox_tray: You can send me a message at lorenzo.mauri858@gmail.com
