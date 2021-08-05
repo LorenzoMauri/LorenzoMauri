@@ -37,6 +37,13 @@ In my repositories you can find Data Science-related projects, more specifically
 
       1. Python (both scripts and Colab notebooks)
       2. R
+      3. Javascript (basics) 
+
+- Databases query languages 
+
+      I. MySQL
+      II. MongoDB
+      III. N1QL
    
 
 
