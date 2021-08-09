@@ -3,7 +3,7 @@
 
 Hi, nice to meet you - I'm a Data Analyst and a passionate Data Science student with a strong statistical background. 
 
-What do I like most ?  Really excited by challenges and new things to learn, doing sports both swimming and basketball :basketball:
+What do I like most ?  Really excited by challenges and new things to learn, doing sports both swimming and playing basketball :basketball:
 
 
 ### What I am working on 
