@@ -43,7 +43,6 @@ In my repositories you can find Data Science-related projects, more specifically
 
       I. MySQL
       II. MongoDB
-      III. N1QL
    
 
 
