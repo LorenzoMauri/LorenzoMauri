@@ -16,7 +16,7 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 
 
-### Contents 
+### What you can find here (aka contents)  
 
 In my repositories you can find Data Science-related projects, more specifically covering the following topics and areas:
 
