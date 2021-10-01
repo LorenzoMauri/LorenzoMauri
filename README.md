@@ -1,7 +1,7 @@
 ## Hello, I'm Lorenzo :wave:
 
 
-Hi, nice to meet you - I'm a Data Analyst and a passionate Data Science student with a strong statistical background. 
+nice to meet you - I'm a Data Scientist with a strong statistical background. 
 
 What do I like most ?  Really excited by challenges and new things to learn, doing sports both swimming and playing basketball :basketball:
 
