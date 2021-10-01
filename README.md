@@ -8,7 +8,7 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### What I am working on 
 
-:books:  *Data Science MSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it: (actually I have been writing my dissertation)
+:books:  *Data Science MSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it: ( I have been writing my dissertation)
 
 :computer: *Working at a company based in [Lecco](https://en.wikipedia.org/wiki/Lecco),  Italy* :it:
 - Data Visualization
