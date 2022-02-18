@@ -3,12 +3,15 @@
 
 nice to meet you - I'm a Data Scientist with a strong statistical background. 
 
-What do I like most ?  Really excited by challenges and new things to learn, doing sports both swimming and playing basketball :basketball:
+What do I like most ?  Really excited by challenges and new things to learn, doing sports such as basketball :basketball:
 
+### Education 
+
+:books:  *Data Science MSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it: 
+
+:books:  *Statistics and Economics BSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it: 
 
 ### What I am working on 
-
-:books:  *Data Science MSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it: ( I have been writing my dissertation)
 
 :computer: *Working at a company based in [Lecco](https://en.wikipedia.org/wiki/Lecco),  Italy* :it:
 - Data Visualization
@@ -18,7 +21,7 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### What you can find here (aka contents)  
 
-In my repositories you can find Data Science-related projects, more specifically covering the following topics and areas:
+In my repositories you can find Data Science-related projects, which cover the following topics and areas:
 
     Computer Vision tasks such as object and image recognition
 
@@ -35,7 +38,7 @@ In my repositories you can find Data Science-related projects, more specifically
 
 - Programming Languages
 
-      1. Python (both scripts and Colab notebooks)
+      1. Python (both scripts and G.Colab notebooks)
       2. R
       3. Javascript (basics) 
 
@@ -43,6 +46,7 @@ In my repositories you can find Data Science-related projects, more specifically
 
       I. MySQL
       II. MongoDB
+      III. CouchBase (basics)
    
 
 
