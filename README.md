@@ -13,7 +13,7 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### What I am working on 
 
-:computer: *I will be working somewhere in Milan,  Italy* :it:
+:computer: *I will be working somewhere in Milan...,  Italy* :it:
 - Consulting
 
 ### What you can find here (aka contents)  
@@ -26,7 +26,7 @@ In my repositories you can find Data Science-related projects, which cover the f
 
     Other statistical analysis related to ML 
     
-    Gathering Data : web scraping
+    Gathering Data: web scraping
 
     Data Visualizations with Tableau Desktop/Public 
   
