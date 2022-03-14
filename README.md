@@ -13,11 +13,8 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### What I am working on 
 
-:computer: *Working at a company based in [Lecco](https://en.wikipedia.org/wiki/Lecco),  Italy* :it:
-- Data Visualization
-- Text Mining and NLP applications 
-
-
+:computer: *I will be working somewhere in Milan,  Italy* :it:
+- Consulting
 
 ### What you can find here (aka contents)  
 
