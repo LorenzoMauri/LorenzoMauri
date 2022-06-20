@@ -13,7 +13,10 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### What I am working on 
 
-:computer: *I will be working somewhere in Milan...,  Italy* :it:
+:computer: I work as a Big Data Engineer consultant in Milan, Italy :it:
+
+Currently, I am focusing on Cloud Services and Cloud Data Platforms such as Azure, AWS, GCP and Snowflake.
+
 - Consulting
 
 ### What you can find here (aka contents)  
