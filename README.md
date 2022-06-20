@@ -1,7 +1,7 @@
 ## Hello, I'm Lorenzo :wave:
 
 
-nice to meet you - I'm a Data Scientist with a strong statistical background. 
+nice to meet you - I'm a Big Data Engineer with a strong statistical background.
 
 What do I like most ?  Really excited by challenges and new things to learn, doing sports such as basketball :basketball:
 
@@ -13,7 +13,7 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### What I am working on 
 
-:computer: I work as a Big Data Engineer consultant in Milan, Italy :it:
+:computer: I work as a Big Data Engineer in Milan, Italy :it:
 
 Currently, I am focusing on Cloud Services and Cloud Data Platforms such as Azure, AWS, GCP and Snowflake.
 
