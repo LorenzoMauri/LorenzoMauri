@@ -44,17 +44,12 @@ In my repositories you can find Data Science-related projects, which cover the f
 
 - Databases query languages 
 
-      I. MySQL
+      I. SQL (MySQL and PostgreSQL) 
       II. MongoDB
       III. CouchBase (basics)
    
 
 
-
-
-
-
-
 ### :speech_balloon:  Get in touch
 ---------------------
-:inbox_tray: You can send me a message at lorenzo.mauri858@gmail.com
+:inbox_tray: You can send me a message at loremauri28@gmail.com
