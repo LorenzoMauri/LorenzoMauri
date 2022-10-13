@@ -1,4 +1,4 @@
-## Hello, I'm Lorenzo :wave:
+## Hi there! :wave:
 
 
 nice to meet you - I'm a Big Data Engineer with a strong statistical background.
@@ -7,9 +7,9 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### Education 
 
-:books:  *Data Science MSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it: 
+:books:  *Data Science MSc, Italy* :it: 
 
-:books:  *Statistics and Economics BSc, [Università degli studi di Milano-Bicocca](https://www.unimib.it/), Italy* :it: 
+:books:  *Statistics and Economics BSc, Italy* :it: 
 
 ### What I am working on 
 
