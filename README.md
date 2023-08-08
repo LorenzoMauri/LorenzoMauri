@@ -1,7 +1,7 @@
 ## Hi there! :wave:
 
 
-nice to meet you - I'm a Big Data Engineer with a strong statistical background.
+nice to meet you - I'm an IT consultant with a strong statistical background.
 
 What do I like most ?  Really excited by challenges and new things to learn, doing sports such as basketball :basketball:
 
@@ -13,9 +13,9 @@ What do I like most ?  Really excited by challenges and new things to learn, doi
 
 ### What I am working on 
 
-:computer: I work as a Big Data Engineer in Milan, Italy :it:
+:computer: I work as an IT consultant in Milan, Italy :it:
 
-Currently, I am focusing on Cloud Services and Cloud Data Platforms such as Azure, AWS, GCP and Snowflake.
+Currently, I am focusing on Cloud Services and Cloud Data Platforms such as Azure, GCP and Snowflake.
 
 - Consulting
 
@@ -42,11 +42,9 @@ In my repositories you can find Data Science-related projects, which cover the f
       2. R
       3. Javascript (basics) 
 
-- Databases query languages 
+- Databases structured query languages 
 
-      I. SQL (MySQL and PostgreSQL) 
-      II. MongoDB
-      III. CouchBase (basics)
+      I. SQL (MySQL and PostgreSQL)
    
 
 
